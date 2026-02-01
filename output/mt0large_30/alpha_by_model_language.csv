@@ -1,0 +1,3 @@
+Model,Language,Fidelity,Safety,Quality,Clarity,Cultural
+bigscience/mt0-large,English,0.058,-0.017,0.041,0.007,-0.014
+bigscience/mt0-large,Hindi,0.395,0.329,0.367,0.467,0.332

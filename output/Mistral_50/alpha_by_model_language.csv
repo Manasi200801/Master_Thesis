@@ -1,0 +1,3 @@
+Model,Language,Fidelity,Safety,Quality,Clarity,Cultural
+mistral-small-latest,EN,-0.01,-0.008,-0.009,-0.009,-0.009
+mistral-small-latest,HI,-0.008,-0.01,-0.01,-0.01,-0.008
