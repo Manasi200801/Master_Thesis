@@ -1,0 +1,7 @@
+pandas
+torch
+transformers
+sentence-transformers
+krippendorff
+matplotlib
+
